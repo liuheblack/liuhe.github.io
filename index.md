@@ -4,8 +4,9 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;9年工作经验  
-* 手 机：18640561160 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：287554444@qq.com    
+* 性 别：男
+* 手 机：18640561160
+* 邮 箱：287554444@qq.com    
 
 
 ## 教育经历
