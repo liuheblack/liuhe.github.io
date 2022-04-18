@@ -13,30 +13,22 @@
 
         
 * 东北大学/2009.9~2013.7/ 计算机科学与技术
-* 系统集成项目管理工程师/201811
+* 系统集成项目管理工程师/2018.11
 
 ## 专业技能
 
-* Java
-* Spring
-* SpringCloud Alibaba
-* Mybaits
-* Redis
-* Mysql
-* Oracle
-* Kafka
-* Linux
-* Docker
-* Nginx
-* Kettle
+* Java/Spring/SpringCloud Alibaba
+* Mysql/Oracle/Redis/Mongo/Mybaits
+* Linux/Kafka/Docker/Nginx/Tomcat
+* Kettle/ETL
 
 ## 从业经历
 
-1. 东软集团股份有限公司 202112-至今
-2. 某国企 201904-202112
-3. 越亮传奇科技股份有限公司 201708-201904
-4. 亚信科技（中国）有限公司 201603-201709
-5. 东软集团股份有限公司 201308-201603
+* 东软集团股份有限公司 202112-至今
+* 某国企 201904-202112
+* 越亮传奇科技股份有限公司 201708-201904
+* 亚信科技（中国）有限公司 201603-201709
+*东软集团股份有限公司 201308-201603
 
 
 
