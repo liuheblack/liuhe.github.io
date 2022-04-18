@@ -4,7 +4,7 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：32  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;9年工作经验  
 * 手 机：18640561160 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：287554444@qq.com    
 
 
@@ -16,37 +16,26 @@
 ## 专业技能
 
 * Java
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* Spring
+* SpringCloud Alibaba
+* Mybaits
+* Redis
+* Mysql
+* Oracle
+* Kafka
+* Linux
+* Docker
+* Nginx
+* Kettle
 
-## 项目经历
+## 从业经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+1. 东软集团股份有限公司 202112-至今
+2. 某国企 201904-202112
+3. 越亮传奇科技股份有限公司 201708-201904
+4. 亚信科技（中国）有限公司 201603-201709
+5. 东软集团股份有限公司 201308-201603
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
-
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
-
-## 其他信息 
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等 
-
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
 
 
 
