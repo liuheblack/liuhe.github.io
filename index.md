@@ -1,12 +1,12 @@
 ## 刘赫
 ---
 ## 资深软件工程师
-28754444@qq.com/18640561160/
+28754444@qq.com/18640561160
 ---
 ### 教育背景
 东北大学/计算机科学与技术/2009-2013
-
 ---
+
 ### 我的技能
 Java/Spring/SpringCloud Alibaba/Mybaits/Redis/Mysql/Oracle/Kafka/Linux/Docker/Nginx/Kettle/ETL
 
@@ -21,6 +21,6 @@ Java/Spring/SpringCloud Alibaba/Mybaits/Redis/Mysql/Oracle/Kafka/Linux/Docker/Ng
 ----
 ### 项目经验
 项目描述/职责描述
-----
+---
 
 
