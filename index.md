@@ -30,7 +30,7 @@
 ## 从业经历
 
 * 北京科东电力控制系统有限公司 2022.5-至今
-   *  基础建设，改变刀耕火种模式，jira、confluence、gitlab、frp....
+   *  基础建设，改变刀耕火种模式，jira、confluence、gitlab、frp、jekenis、docker....
    *  新开发框架，基于springboot、vue、mybatisplus、redis、dm、docker等,基于若依适应现状。
    *  D5000，接手火电项目，负责湖北湖南黑龙江等地维护，新需求开发（springmvc+jsp+dm）；接手数据质量项目，负责华中内蒙数据质量新需求开发（springmvc+jsp+dm）；内蒙数据中心，历史数据查询工具（sprintboot+vue+dm+redis+docker）。
    *  集控系统，安全4区架构设计、规范讨论编写、开发设计、送检(springmvc+jsp+dm)；安全1区二次设备控制功能人机等(jdk1.6+swing)
