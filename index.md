@@ -31,7 +31,11 @@
 
 * 北京科东电力控制系统有限公司 2022.5-至今
    *  基础建设，改变刀耕火种模式，jira、confluence、gitlab、frp....
-   *  杂活乱活，有时间再整理吧..
+   *  新开发框架，基于springboot、vue、mybatisplus、redis、dm、docker等,基于若依适应现状。
+   *  D5000，接手火电项目，负责湖北湖南黑龙江等地维护，新需求开发（springmvc+jsp+dm）；接手数据质量项目，负责华中内蒙数据质量新需求开发（springmvc+jsp+dm）；内蒙数据中心，历史数据查询工具（sprintboot+vue+dm+redis+docker）。
+   *  集控系统，安全4区架构设计、规范讨论编写、开发设计、送检(springmvc+jsp+dm)；安全1区二次设备控制功能人机等(jdk1.6+swing)
+   *  新一代，安全3区实时告警窗和历史告警查询方案编写、开发，springboot+vue+websocket
+   *  杂活乱活，服务器上下架、办公室机房网络..
   
 * 某国企 2019.04-2022.05
    *  某系统，预研项目。应用技术Spring Boot/Spring Cloud Alibaba/Vue/Element/Mysql/Redis/Es。我负责技术调研、架构设计、框架搭建。
