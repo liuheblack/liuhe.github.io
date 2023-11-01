@@ -23,7 +23,7 @@
 ## 专业技能
 
 * Java/Spring/SpringCloud Alibaba
-* Mysql/Oracle/Redis/Mongo/Mybaits
+* Mysql/Oracle/DM/Redis/Mongo/Mybaits
 * Linux/Kafka/Docker/Nginx/Tomcat
 * Kettle/ETL
 
