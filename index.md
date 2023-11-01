@@ -37,7 +37,7 @@
    *  新一代，安全3区实时告警窗和历史告警查询方案编写、开发，springboot+vue+websocket
    *  杂活乱活，服务器上下架、办公室机房网络..
   
-* 某国企 2019.04-2022.05
+* 某研究所 2019.04-2022.05
    *  某系统，预研项目。应用技术Spring Boot/Spring Cloud Alibaba/Vue/Element/Mysql/Redis/Es。我负责技术调研、架构设计、框架搭建。
    *  某系统，监管某行业全国数据,日数据量3700万+。应用技术Spring Boot/Kafka/Mysql/Oracle/Es/Kettle。我负责技术调研、研发、优化、实施运维工作。
    *  某指挥系统，参考电影情节。应用技术SpringMvc/Mysql/AngularJS/Android。我负责技术调研、后端研发、优化视频直播、无人机模块、人车互动、人脸识别、实施运维工作。 
